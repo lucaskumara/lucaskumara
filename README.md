@@ -1,2 +1,3 @@
 ### Welcome to my GitHub Profile!
-Hey there! My name is Lucas :) This is where I keep my code!
+* My name is Lucas and I am a new graduate!
+* I am currently working on [Campfire](https://github.com/lucaskumara/Campfire)
